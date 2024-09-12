@@ -10,8 +10,8 @@ Tu programa debería ejecutarse de la siguiente manera:
 EJERCICIO RECURSIVO MCD
 =======================
 
-Proporcione el valor del primer número:15
-Proporcione el valor del segundo número:6
+Proporcione el valor del primer numero:15
+Proporcione el valor del segundo numero:6
 
 El MCD entre 15 y 6 es: 3
 ```
